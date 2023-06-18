@@ -1,4 +1,4 @@
-# Hanoi-Towers-
+# Hanoi-Towers
 
 Ejemplo de resolución del problema clásico de las Torres de Hanoi
 
